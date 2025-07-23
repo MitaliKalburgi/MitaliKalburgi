@@ -1,4 +1,4 @@
-<h1 align="center">**Hi there, I'm Mitali!** 👋</h1>
+<h1 align="center">Hi there, I'm Mitali! 👋</h1>
 
 <p align="center">
   Microsoft Certified Data Analyst | Salesforce Developer | Business Intelligence Enthusiast

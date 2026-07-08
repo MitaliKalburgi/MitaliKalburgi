@@ -8,11 +8,11 @@
 
 ### 🧠 About Me
 
-🎓 Electronics Engineer turned Business Analyst & Data Analyst
-📊 Microsoft Certified Data Analyst Associate | Salesforce PDI Certified
-🤖 Currently completing Business Analytics & Agentic AI at Bitsom
-🌱 Building projects in SQL, Python, Power BI, Tableau & Machine Learning
-😊 Open to Business Analyst & Data Analyst roles
+- 🎓 Electronics Engineer turned Business Analyst & Data Analyst
+- 📊 Microsoft Certified Data Analyst Associate | Salesforce PDI Certified
+- 🤖 Currently completing Business Analytics & Agentic AI at Bitsom
+- 🌱 Building projects in SQL, Python, Power BI, Tableau & Machine Learning
+- 😊 Open to Business Analyst & Data Analyst roles
 
 ---
 

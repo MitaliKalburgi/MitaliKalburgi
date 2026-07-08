@@ -1,18 +1,18 @@
 <h1 align="center">Hi there, I'm Mitali! 👋</h1>
 
 <p align="center">
-  Microsoft Certified Data Analyst | Salesforce Developer | Business Intelligence Enthusiast
+  Microsoft Certified Data Analyst | Business Analyst |  Power BI • SQL • Python • Tableau | AI
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 💼 3+ years of experience as a Salesforce Developer  
-- 📊 Microsoft Certified Data Analyst Associate  
-- 🧩 Passionate about solving business problems using data-driven insights  
-- 🌱 Currently working on real-world analytics dashboards with Power BI  
-- 🤝 Open to collaboration in Data Analytics and CRM Reporting
+🎓 Electronics Engineer turned Business Analyst & Data Analyst
+📊 Microsoft Certified Data Analyst Associate | Salesforce PDI Certified
+🤖 Currently completing Business Analytics & Agentic AI at Bitsom
+🌱 Building projects in SQL, Python, Power BI, Tableau & Machine Learning
+😊 Open to Business Analyst & Data Analyst roles
 
 ---
 
